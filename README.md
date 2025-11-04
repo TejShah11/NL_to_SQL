@@ -122,8 +122,8 @@ Divya  10890.25
 
 ## 👥 Authors
 
-* **Harsh Shah** — UID: 2022300105
-* **Tej Shah** — UID: 2022300106
+* **Harsh Shah**
+* **Tej Shah**
 
 ---
 
